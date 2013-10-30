@@ -1,6 +1,6 @@
-# CSS Effects #
+# css-effects #
 
-This CSS library emulates some of common jQuery animations, such as fadeIn(), slideUp(), slideDown(), etc.
+**css-effects** library emulates some of common jQuery animations, such as fadeIn(), slideUp(), slideDown(), etc.
 
 The effects included within the library are the following:
 
@@ -27,3 +27,6 @@ The library has been tested and works properly on:
 - Opera
 - IE10+
 
+## License ##
+
+css-effects is licensed under the MIT license. (http://opensource.org/licenses/MIT)
