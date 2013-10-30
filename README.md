@@ -27,6 +27,18 @@ The library has been tested and works properly on:
 - Opera
 - IE10+
 
+## Installation ##
+
+Get a packaged source file:
+
+- parallaxeos.js
+- parallaxeos.min.js
+
+Or install via
+[Bower](http://bower.io/):
+
+	bower install parallaxeos
+
 ## License ##
 
 css-effects is licensed under the MIT license. (http://opensource.org/licenses/MIT)
