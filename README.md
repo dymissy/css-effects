@@ -31,13 +31,12 @@ The library has been tested and works properly on:
 
 Get a packaged source file:
 
-- parallaxeos.js
-- parallaxeos.min.js
+- css-effects.css
 
 Or install via
 [Bower](http://bower.io/):
 
-	bower install parallaxeos
+	bower install css-effects
 
 ## License ##
 
